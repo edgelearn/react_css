@@ -1,6 +1,6 @@
 # ReactJS CSS
 
-Run the following command to get a basic ReactJS application setup with Redux:
+Run the following command to get a basic ReactJS application setup for CSS:
 
 ```
 npx create-react-app my-app
